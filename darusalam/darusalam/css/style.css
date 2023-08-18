@@ -1159,7 +1159,7 @@ button[type=submit] {
   position: absolute;
   left: 15px;
   bottom: -30px;
-  background: #9f8054;
+  background: #011046;
   width: 70%;
   padding: 40px 30px;
   padding-right: 60px;
@@ -1622,7 +1622,7 @@ button[type=submit] {
   background-size: auto 120%;
   background-position: right;
   background-repeat: no-repeat;
-  background-color: #030c47;
+  background-color: #01122b;
 }
 .get-consultation .content-box {
   width: 500px;
@@ -2899,13 +2899,13 @@ button[type=submit] {
   flex-wrap: wrap;
   padding-top: 180px;
   padding-bottom: 30px;
-  background: #26282b;
+  background: #01122b;
 }
 .footer p {
   color: #fff;
 }
 .footer .logo {
-  height: 41px;
+  height: 9em;
   margin-bottom: 15px;
 }
 .footer .logo img {
