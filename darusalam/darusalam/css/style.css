@@ -111,7 +111,7 @@ textarea {
 button[type=submit] {
   height: 54px;
   border: none;
-  background: #9f8054;
+  background: #011046;
   color: #fff;
   padding: 0 30px;
   font-size: 13px;
@@ -2741,7 +2741,7 @@ button[type=submit] {
   display: inline-block;
   margin-bottom: 0;
   margin-top: 100px;
-  background: #ebcfa7;
+  background: #011046;
   position: relative;
 }
 .contact .map:before {
