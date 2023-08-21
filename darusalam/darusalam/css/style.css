@@ -83,7 +83,9 @@ a {
   transition: 0.25s ease-in-out;
   color: #26282b;
 }
-
+.learn{
+  color: #ffff;
+}
 a:hover {
   text-decoration: underline;
 }
@@ -108,7 +110,7 @@ textarea {
   padding: 15px 20px;
 }
 
-button[type=submit] {
+button[type=submit],.developer{
   height: 54px;
   border: none;
   background: #011046;
@@ -240,7 +242,7 @@ button[type=submit] {
   position: relative;
 }
 .gallery-container .swiper-slide {
-  width: 80%;
+  width: 100%;
   margin: 0;
   opacity: 0.6;
 }
@@ -253,7 +255,7 @@ button[type=submit] {
 }
 .gallery-container .gallery-pagination {
   bottom: 20px;
-  position: absolute;
+  position: right;
   z-index: 2;
 }
 .gallery-container .gallery-pagination .swiper-pagination-bullet {
