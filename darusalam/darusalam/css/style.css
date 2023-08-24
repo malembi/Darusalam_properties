@@ -117,7 +117,7 @@ button[type=submit],.developer{
   color: #fff;
   padding: 0 30px;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 100;
   text-transform: uppercase;
 }
 
@@ -162,7 +162,7 @@ button[type=submit],.developer{
   font-weight: 500;
   padding: 20px 25px;
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
 }
 .accordion .card .card-header a:before {
   content: "+";
@@ -170,7 +170,7 @@ button[type=submit],.developer{
   text-align: center;
   margin-right: 8px;
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
 }
 .accordion .card .card-header a:hover {
   color: #9f8054;
@@ -214,7 +214,7 @@ button[type=submit],.developer{
   border-radius: 0 !important;
   padding: 15px 20px;
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 13px;
   border: 1px solid #dee2e6;
   line-height: 1;
@@ -312,7 +312,7 @@ button[type=submit],.developer{
   border-bottom: 2px solid transparent;
   padding: 4px 0;
   border-radius: 0;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 14px;
 }
 .nav-pills .nav-item .nav-link.active {
@@ -329,7 +329,7 @@ button[type=submit],.developer{
 .breadcrumb .breadcrumb-item {
   display: inline-block;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
   padding: 0;
 }
 .breadcrumb .breadcrumb-item:first-child:before {
@@ -479,7 +479,7 @@ button[type=submit],.developer{
   height: 60px;
 }
 .preloader .inner p {
-  font-weight: 600;
+  font-weight: 100;
   color: #fff;
   font-size: 13px;
   display: block;
@@ -617,7 +617,7 @@ button[type=submit],.developer{
   display: inline-block;
   color: #fff;
   font-size: 3vw;
-  font-weight: 600;
+  font-weight: 100;
 }
 .side-navigation .menu ul li a:hover {
   color: #ebcfa7;
@@ -639,7 +639,7 @@ button[type=submit],.developer{
   margin-bottom: 20px;
 }
 .side-navigation h6 {
-  font-weight: 600;
+  font-weight: 100;
   font-size: 20px;
 }
 .side-navigation p {
@@ -746,7 +746,7 @@ button[type=submit],.developer{
   margin-bottom: -5px;
   margin-top: 3px;
   font-size: 17px;
-  font-weight: 600;
+  font-weight: 100;
   display: -webkit-box;
   line-height: 1;
 }
@@ -773,7 +773,7 @@ button[type=submit],.developer{
   display: inline-block;
   margin: 0 5px;
   color: #fff;
-  font-weight: 600;
+  font-weight: 100;
 }
 .navbar .container .upper-side .language a:hover {
   color: #ebcfa7;
@@ -859,7 +859,7 @@ button[type=submit],.developer{
 .navbar .container .menu ul li a {
   color: #fff;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 100;
   padding: 25px 0;
   border-top: 1px solid transparent;
 }
@@ -946,8 +946,9 @@ button[type=submit],.developer{
   z-index: -1;
 }
 .slider .slider-container .swiper-slide .container h2 {
-  font-weight: 600;
-  color: #fff;
+  font-weight: 100;
+  color: #ffff;
+  font-size: large;
   margin-bottom: 50px;
 }
 .slider .slider-container .swiper-slide .container a {
@@ -956,7 +957,7 @@ button[type=submit],.developer{
   float: left;
   color: #fff;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
   padding-bottom: 10px;
   position: relative;
   border: 2px solid #000c34;
@@ -1009,7 +1010,7 @@ button[type=submit],.developer{
   transform: rotate(90deg);
   transform-origin: left;
   margin-left: 9px;
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 120px;
   font-size: 14px;
 }
@@ -1047,7 +1048,7 @@ button[type=submit],.developer{
   z-index: 4;
   color: #fff;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
   line-height: 50px;
 }
 .slider .slider-container .inner-elements .container .pagination .swiper-pagination-current {
@@ -1073,7 +1074,7 @@ button[type=submit],.developer{
   transition: 0.25s ease-in-out;
   transform-origin: bottom;
   margin-top: -60px;
-  font-weight: 600;
+  font-weight: 100;
   color: #fff;
   font-size: 14px;
   line-height: 1;
@@ -1105,7 +1106,7 @@ button[type=submit],.developer{
   transition: 0.25s ease-in-out;
   transform-origin: bottom;
   margin-top: 60px;
-  font-weight: 600;
+  font-weight: 100;
   color: #fff;
   font-size: 14px;
   line-height: 1;
@@ -1146,7 +1147,7 @@ button[type=submit],.developer{
 }
 .page-header .container h1 {
   font-size: 5vw;
-  color: #fff;
+  color: #ffff;
   font-family: "Playfair Display", serif;
   color: #ebcfa7;
   margin-bottom: 20px;
@@ -1154,7 +1155,7 @@ button[type=submit],.developer{
 .page-header .container p {
   display: block;
   color: #fff;
-  font-size: 20px;
+  font-size: 17px;
   margin: 0;
 }
 .page-header .container .breadcrumb {
@@ -1222,7 +1223,7 @@ button[type=submit],.developer{
   color: #9f8054;
 }
 .intro .content-box h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 30px;
 }
 .intro .content-box p {
@@ -1233,7 +1234,7 @@ button[type=submit],.developer{
 .intro .content-box a {
   display: inline-block;
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
 }
 .intro .content-box a img {
   height: 46px;
@@ -1334,7 +1335,7 @@ button[type=submit],.developer{
   color: #9f8054;
 }
 .benefits h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 50px;
 }
 .benefits figure {
@@ -1361,7 +1362,7 @@ button[type=submit],.developer{
   z-index: 2;
 }
 .benefits h6 {
-  font-weight: 600;
+  font-weight: 100;
   font-size: 14px;
 }
 .benefits .odometer {
@@ -1371,7 +1372,7 @@ button[type=submit],.developer{
 }
 .benefits .extra {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 100;
   display: inline-block;
   transform: translateY(10px);
 }
@@ -1399,14 +1400,14 @@ button[type=submit],.developer{
   color: #9f8054;
 }
 .recent-gallery h3 {
-  font-weight: 600;
+  font-weight: 100;
   padding-right: 40%;
   margin-bottom: 30px;
 }
 .recent-gallery .link {
   display: inline-block;
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 14px;
   position: relative;
   padding-bottom: 10px;
@@ -1514,7 +1515,7 @@ button[type=submit],.developer{
   color: #9f8054;
 }
 .property-calculator .content-box h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 30px;
 }
 .property-calculator .content-box ul {
@@ -1542,7 +1543,7 @@ button[type=submit],.developer{
 .property-calculator .content-box a {
   display: inline-block;
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
 }
 .property-calculator .content-box a img {
   height: 46px;
@@ -1576,7 +1577,7 @@ button[type=submit],.developer{
   color: #9f8054;
 }
 .property-plans h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 30px;
 }
 .property-plans p {
@@ -1595,7 +1596,7 @@ button[type=submit],.developer{
 .property-plans table tr td:first-child {
   color: #9f8054;
   width: 120px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .property-plans .tab-nav {
   width: 100%;
@@ -1611,7 +1612,7 @@ button[type=submit],.developer{
 }
 .property-plans .tab-nav li a {
   color: #26282b;
-  font-weight: 600;
+  font-weight: 100;
 }
 
 /* GET CONSULTATION */
@@ -1667,7 +1668,7 @@ button[type=submit],.developer{
   color: #ebcfa7;
 }
 .get-consultation h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 30px;
 }
 .get-consultation p {
@@ -1681,7 +1682,7 @@ button[type=submit],.developer{
   float: left;
   color: #fff;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
   padding-bottom: 10px;
   position: relative;
   background: #02193b;
@@ -1753,7 +1754,7 @@ button[type=submit],.developer{
 .recent-posts .post-box h6 {
   display: block;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .recent-posts .post-box h6 a {
   display: inline-block;
@@ -1801,7 +1802,7 @@ button[type=submit],.developer{
   color: #ebcfa7;
 }
 .property-customization h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 30px;
 }
 .property-customization figure {
@@ -1820,7 +1821,7 @@ button[type=submit],.developer{
 .property-customization figure figcaption {
   color: #fff;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 100;
 }
 
 /* APARTMENTS */
@@ -1840,24 +1841,24 @@ button[type=submit],.developer{
 }
 .apartment h6 {
   margin-bottom: 15px;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 20px;
 }
 .apartment h5 {
   margin-bottom: 70px;
-  font-weight: 600;
+  font-weight: 100;
   opacity: 0.5;
 }
 .apartment h4 {
   margin-bottom: 20px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .apartment p {
   line-height: 1.7;
   margin-bottom: 20px;
 }
 .apartment p strong {
-  font-weight: 600;
+  font-weight: 100;
 }
 .apartment ul {
   width: 100%;
@@ -1916,7 +1917,7 @@ button[type=submit],.developer{
 .apartment .property-infos .odometer:after {
   content: attr(data-text);
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 100;
   margin-top: 10px;
   margin-left: 5px;
   opacity: 0.5;
@@ -1942,24 +1943,24 @@ button[type=submit],.developer{
 }
 .about-content h6 {
   margin-bottom: 15px;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 20px;
 }
 .about-content h5 {
   margin-bottom: 40px;
-  font-weight: 600;
+  font-weight: 100;
   opacity: 0.5;
 }
 .about-content h4 {
   margin-bottom: 20px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .about-content p {
   line-height: 1.7;
   margin-bottom: 20px;
 }
 .about-content p strong {
-  font-weight: 600;
+  font-weight: 100;
 }
 .about-content ul {
   width: 100%;
@@ -2102,7 +2103,7 @@ button[type=submit],.developer{
   float: right;
 }
 .facilities figure figcaption h5 {
-  font-weight: 600;
+  font-weight: 100;
   font-size: 16px;
 }
 .facilities figure figcaption p {
@@ -2174,7 +2175,7 @@ button[type=submit],.developer{
   padding: 0 20px;
   background: #26282b;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 100;
   color: #fff;
 }
 .sales-offices .office-box a i {
@@ -2208,7 +2209,7 @@ button[type=submit],.developer{
   color: #9f8054;
 }
 .intro-video h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin-bottom: 50px;
 }
 .intro-video .video-container {
@@ -2286,7 +2287,7 @@ button[type=submit],.developer{
   list-style: none;
 }
 .photo-gallery .gallery-filter li a {
-  font-weight: 600;
+  font-weight: 100;
   border-bottom: 2px solid transparent;
 }
 .photo-gallery .gallery-filter li a.current {
@@ -2377,7 +2378,7 @@ button[type=submit],.developer{
 }
 .sales-team figure figcaption ul li a {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .sales-team figure figcaption ul li a i {
   margin-right: 6px;
@@ -2420,7 +2421,7 @@ button[type=submit],.developer{
   display: inline-block;
   color: #9f8054;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
   padding-bottom: 10px;
   position: relative;
   border: 2px solid #ebcfa7;
@@ -2650,7 +2651,7 @@ button[type=submit],.developer{
   padding: 0 10px;
   font-size: 13px;
   color: #9f8054;
-  font-weight: 600;
+  font-weight: 100;
 }
 .blog .sidebar .widget .tags li a:hover {
   background: #9f8054;
@@ -2731,7 +2732,7 @@ button[type=submit],.developer{
   margin-bottom: 50px;
 }
 .contact address strong {
-  font-weight: 600;
+  font-weight: 100;
   display: block;
   margin-bottom: 10px;
 }
@@ -2811,7 +2812,7 @@ button[type=submit],.developer{
   font-size: 13px;
   line-height: 16px;
   top: -20px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .contact .contact-form #contact .form-group input[type=text] {
   background: none;
@@ -2822,7 +2823,7 @@ button[type=submit],.developer{
   font-size: 13px;
   line-height: 16px;
   top: -20px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .contact .contact-form #contact .form-group textarea {
   background: none;
@@ -2833,13 +2834,13 @@ button[type=submit],.developer{
   font-size: 13px;
   line-height: 16px;
   top: -20px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .contact .contact-form #contact .form-group label.error {
   color: red;
   margin-top: 5px;
   margin-bottom: 0;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 13px;
 }
 .contact .contact-form #success, .contact .contact-form #error {
@@ -2890,7 +2891,7 @@ button[type=submit],.developer{
   margin: 0;
 }
 .footer-bar .inner strong {
-  font-weight: 600;
+  font-weight: 100;
   text-decoration: underline;
 }
 
@@ -2932,7 +2933,7 @@ button[type=submit],.developer{
 .footer .select-box .dropdown-toggle {
   color: #fff;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 100;
 }
 .footer .select-box .dropdown-toggle:hover {
   text-decoration: none;
@@ -2998,7 +2999,7 @@ button[type=submit],.developer{
   font-family: "Playfair Display", serif;
 }
 .footer .contact-box h3 {
-  font-weight: 600;
+  font-weight: 100;
   margin: 0;
 }
 .footer .contact-box p {
