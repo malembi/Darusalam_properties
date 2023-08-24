@@ -2419,12 +2419,12 @@ button[type=submit],.developer{
   height: 60px;
   line-height: 56px;
   display: inline-block;
-  color: #9f8054;
+  color: #545f9f;
   font-size: 14px;
   font-weight: 600;
   padding-bottom: 10px;
   position: relative;
-  border: 2px solid #ebcfa7;
+  border: 2px solid #0d0392;
   padding: 0 40px;
   box-shadow: 0 0 20px rgba(235, 207, 167, 0.4);
   -webkit-transition: 0.25s ease-in-out;
