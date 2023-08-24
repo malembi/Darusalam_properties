@@ -567,8 +567,9 @@ button[type=submit],.developer{
   position: fixed;
   left: -100%;
   top: 0;
-  background: #26282b;
-  z-index: 10;
+  opacity: 1;
+  background: #004ab8;
+  z-index: 1;
   box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.2);
   color: #fff;
   font-size: 14px;
