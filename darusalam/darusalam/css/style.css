@@ -704,7 +704,7 @@ button[type=submit],.developer{
   position: absolute;
   left: 0;
   top: 0;
-  z-index: 3;
+  z-index: 1;
 }
 .navbar .container {
   flex-direction: column;
