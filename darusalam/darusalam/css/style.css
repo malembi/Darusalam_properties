@@ -282,10 +282,10 @@ button[type=submit],.developer{
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#26282b",endColorstr="#9f8054",GradientType=1);
 }
 .video-bg video {
-  min-width: 100%;
-  min-height: 100%;
-  float: left;
-  opacity: 0.15;
+  width: 70%;
+  height: auto;
+   float: right; 
+  /* opacity: 0.15; */
 }
 .dlogo {
   height: 20px;
@@ -1784,7 +1784,7 @@ button[type=submit],.developer{
   flex-wrap: wrap;
   padding: 150px 0;
   background: #26282b;
-  color: #fff;
+  color: #000;
   position: relative;
 }
 .property-customization b {
@@ -1796,22 +1796,22 @@ button[type=submit],.developer{
 }
 .property-customization h4 {
   display: block;
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Playfair Display", serif;
   margin-bottom: 15px;
 }
 .property-customization h4 span {
-  color: #ebcfa7;
+  color: #000;
 }
 .property-customization h3 {
   font-weight: 100;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .property-customization figure {
   width: 100%;
   display: flex;
   align-items: center;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(33, 9, 9, 0.1);
   padding: 15px 10px;
   margin: 15px 0;
 }
