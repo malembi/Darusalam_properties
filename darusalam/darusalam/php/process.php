@@ -8,22 +8,24 @@ use PHPMailer\PHPMailer\Exception;
 require 'vendor/autoload.php';
 
 // Instantiation and passing `true` enables exceptions
-$mail = new PHPMailer();
+
+$mail = new PHPMailer(true);
 
 try {
     //Server settings
-    //$mail->SMTPDebug = 2;                                       // Enable verbose debug output
+    //$mail->SMTPDebug = 2; 
+                                        // Enable verbose debug output
     $mail->isSMTP();                                            // Set mailer to use SMTP
     $mail->Host       = 'smtp.mail.yahoo.com';  			// Specify main and backup SMTP servers
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-    $mail->Username   = 'katmerayt@yahoo.com';                     // SMTP username
-    $mail->Password   = 'mypassword';                               // SMTP password
+    $mail->Username   = 'info@darusalamproperties.com';                     // SMTP username
+    $mail->Password   = 'Darusalam@123';                               // SMTP password
     $mail->SMTPSecure = 'tls';                                  // Enable TLS encryption, `ssl` also accepted
     $mail->Port       = 465;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('katmerayt@yahoo.com');
-    $mail->addAddress('katmerayt@yahoo.com');     // Add a recipient
+    $mail->setFrom('samirmaleymbi@yahoo.com');
+    $mail->addAddress('samirmaleymbi@yahoo.com');     // Add a recipient
     $mail->addReplyTo($_REQUEST['email'], $_REQUEST['name']);
 
     // Content
