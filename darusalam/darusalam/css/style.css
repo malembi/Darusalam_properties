@@ -1125,12 +1125,11 @@ button[type=submit],.developer{
   flex-wrap: wrap;
   padding-top: 200px;
   background-color: #26282b;
-  background-image: url(images/headerr.jpg);
   position: relative;
   margin-bottom: 30px;
 }
 .page-header:after {
-  background-image: url(../images/headerr.jpg);
+  background-image: url(images/headerr.jpg);
   content: "";
   width: 100%;
   height: 100%;
@@ -2153,6 +2152,7 @@ button[type=submit],.developer{
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
   padding: 135px 0;
 }
 .sales-offices .office-box {
@@ -2160,6 +2160,7 @@ button[type=submit],.developer{
   display: flex;
   flex-wrap: wrap;
   padding: 30px;
+   justify-content: space-evenly; 
   margin: 15px 0;
   border: 1px solid #eee;
 }
@@ -2176,7 +2177,7 @@ button[type=submit],.developer{
   line-height: 44px;
   display: inline-block;
   padding: 0 20px;
-  background: #26282b;
+  background: #0a48a5;
   font-size: 13px;
   font-weight: 100;
   color: #fff;
@@ -2422,12 +2423,12 @@ button[type=submit],.developer{
   height: 60px;
   line-height: 56px;
   display: inline-block;
-  color: #545f9f;
+  color: #9f8054;
   font-size: 14px;
   font-weight: 100;
   padding-bottom: 10px;
   position: relative;
-  border: 2px solid #0d0392;
+  border: 2px solid #ebcfa7;
   padding: 0 40px;
   box-shadow: 0 0 20px rgba(235, 207, 167, 0.4);
   -webkit-transition: 0.25s ease-in-out;
