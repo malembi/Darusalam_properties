@@ -707,6 +707,7 @@ button[type=submit],.developer{
   z-index: 3;
 }
 .navbar .container {
+  display: flex;
   flex-direction: column;
 }
 .navbar .container .upper-side {
@@ -1127,6 +1128,7 @@ button[type=submit],.developer{
   background-color: #26282b;
   position: relative;
   margin-bottom: 30px;
+  background-image: url(images/head.jpg);
 }
 .page-header:after {
   /* background-image: url(images/52345-large-driveway-to-an-upscale-residence-2022-03-04-02-36-25-utc.jpg); */
