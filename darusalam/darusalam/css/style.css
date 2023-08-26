@@ -306,6 +306,14 @@ button[type=submit],.developer{
 .nav-pills .nav-item:last-child {
   margin-right: 0;
 }
+.fancybox-next span {
+  left: auto;
+  right: 20px;
+ }
+ .fancybox-prev span {
+  left: 20px;
+ }
+ 
 .nav-pills .nav-item .nav-link {
   background: none;
   color: #26282b;
