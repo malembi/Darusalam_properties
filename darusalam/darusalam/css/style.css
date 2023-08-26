@@ -282,7 +282,7 @@ button[type=submit],.developer{
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#26282b",endColorstr="#9f8054",GradientType=1);
 }
 .video-bg video {
-  width: 70%;
+  width: 0%;
   height: auto;
    float: right; 
   /* opacity: 0.15; */
@@ -1990,7 +1990,7 @@ button[type=submit],.developer{
   font-size: 20px;
 }
 .about-content .video-content {
-  width: 100%;
+  width: 10%;
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 60px;
@@ -2877,7 +2877,7 @@ button[type=submit],.developer{
 }
 .footer-bar .inner {
   background: #9f8054;
-  padding: 60px 30px;
+  padding: 20px 30px;
   color: #fff;
 }
 .footer-bar .inner figure {
